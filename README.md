@@ -1,3 +1,3 @@
 #SAKILA_DB
 
-<img src="sakila_db.pdf">
+<img src="sakila_db.pdf" />
